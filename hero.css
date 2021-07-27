@@ -1,0 +1,38 @@
+body{
+margin: 0;
+font-family: Helvetica , Arial , sans-serif;
+}
+
+header{
+ background-color:darkred ;
+text-align: center;
+padding-top: 50px;
+padding-bottom: 50px;
+}
+
+h1,h2{
+	font-family: 'Press Start 2P', cursive;
+}
+
+header h1{
+color: white;
+font-size: 50px;
+}
+
+header img{
+	border-radius: 170px;
+	width: 300px;
+    border: 20px solid violet;
+
+}
+main img{
+	max-width: 900px;
+}
+
+main{
+	max-width: 800px;
+}
+
+
+
+
