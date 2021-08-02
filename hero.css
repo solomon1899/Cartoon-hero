@@ -1,6 +1,7 @@
 body{
 margin: 0;
 font-family: Helvetica , Arial , sans-serif;
+font-size: 20px;
 }
 
 header{
@@ -31,8 +32,20 @@ main img{
 
 main{
 	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+h2{
+	font-size: 30px;
+	color: #e70c19;
+}
+a{
+	color: #e70c19;
 }
 
+a:hover{
 
+color: white;
+background-color: #483a94;
 
-
+}
